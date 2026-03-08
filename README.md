@@ -9,7 +9,7 @@ Example:
 ```
 SELECT username FROM users
 UNINO
-SELECT username FROM admin ;
+SELECT username FROM admins;
 ```
 It will show table1 and table2 data on page
 
